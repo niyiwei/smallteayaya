@@ -1,0 +1,17 @@
+{
+  "name": "smallteayaya",
+  "version": "1.0.0",
+  "description": "small tea tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tea",
+    "tools",
+    "good",
+    "yaya"
+  ],
+  "author": "niyiwei",
+  "license": "ISC"
+}
