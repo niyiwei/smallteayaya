@@ -12,6 +12,10 @@
     "good",
     "yaya"
   ],
+  "repository": {
+    "url": "https://github.com/niyiwei/smallteayaya.git",
+    "type": "git"
+  },
   "author": "niyiwei",
   "license": "ISC"
 }
